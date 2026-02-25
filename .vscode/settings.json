@@ -1,0 +1,27 @@
+{
+  "flake8.args": [
+    "--max-line-length=120",
+    "--ignore=E402,F841,F401,E501,W503,W504"
+  ],
+  "cSpell.words": [
+    "addopts",
+    "appshell",
+    "dashtuto",
+    "dotenv",
+    "histfunc",
+    "isort",
+    "Mantine",
+    "Percap",
+    "plotly",
+    "pycache",
+    "pycodestyle",
+    "pydantic",
+    "pyflakes",
+    "Pytest",
+    "pythonpath",
+    "pyupgrade",
+    "testpaths",
+    "Tuto",
+    "VENV"
+  ]
+}
